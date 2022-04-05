@@ -1,0 +1,31 @@
+{
+  "name": "basic-serverless-api",
+  "version": "0.0.1",
+  "description": "Just basic serverless api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsjorgeluis/basic-serverless-api.git"
+  },
+  "keywords": [
+    "serverless",
+    "api",
+    "javascript",
+    "aws",
+    "lambda"
+  ],
+  "author": "Jorge Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsjorgeluis/basic-serverless-api/issues"
+  },
+  "homepage": "https://github.com/fsjorgeluis/basic-serverless-api#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
